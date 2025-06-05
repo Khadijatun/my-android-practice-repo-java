@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+<LinearLayout
+
+   android:orientation="vertical"
+    android:background="#0C0D0D"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3">
+<ImageView
+
+    android:layout_width="match_parent"
+    android:layout_height="170dp"
+    android:layout_weight="2"
+android:layout_marginTop="10dp"
+    android:background="@drawable/email"
+ android:layout_marginRight="10dp"
+    android:layout_marginBottom="11dp"
+    />
+
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/candycrash"
+            android:layout_marginBottom="11dp"
+           />
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3">
+    <ImageView
+
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:layout_weight="1"
+
+        android:background="@drawable/fb"
+        android:layout_marginRight="10dp"
+
+
+        />
+
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_weight="1"
+
+            android:background="@drawable/whatsapp"
+            android:layout_marginRight="10dp"
+            />
+
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_weight="1"
+
+            android:background="@drawable/intagram"
+            android:layout_marginBottom="11dp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3">
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_weight="1"
+
+            android:background="@drawable/linkind"
+            android:layout_marginRight="10dp"
+
+            />
+
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_weight="1"
+
+            android:background="@drawable/telegram"
+            android:layout_marginRight="10dp"
+            />
+
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_weight="1"
+            android:layout_marginBottom="11dp"
+            android:background="@drawable/twitter"
+
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3">
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_weight="1"
+
+            android:background="@drawable/foodpanda"
+            android:layout_marginRight="10dp"
+android:layout_marginBottom="6dp"
+            />
+
+
+
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_weight="2"
+
+            android:background="@drawable/daraj"
+            android:layout_marginBottom="6dp"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3">
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_weight="1"
+
+            android:background="@drawable/foodpanda"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="6dp"
+            />
+
+
+
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_weight="2"
+
+            android:background="@drawable/daraj"
+            android:layout_marginBottom="6dp"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3">
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_weight="1"
+
+            android:background="@drawable/foodpanda"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="6dp"
+            />
+
+
+
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_weight="2"
+
+            android:background="@drawable/daraj"
+            android:layout_marginBottom="6dp"
+            />
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>
