@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Inten_Explicity"
+rootProject.name = "Layout_all"
 include(":app")
  
